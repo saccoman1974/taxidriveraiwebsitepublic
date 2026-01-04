@@ -19,7 +19,7 @@ Visit the live site: [https://saccoman1974.github.io/taxidriveraiwebsitepublic/]
 
 ## Contact
 
-- Email: [taxidriverai@hotmail.com](mailto:taxidriverai@hotmail.com)
+- Email: [info@taxidriverai.co.uk](mailto:info@taxidriverai.co.uk)
 
 ## License
 
